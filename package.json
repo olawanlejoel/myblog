@@ -1,0 +1,14 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "jekyll serve",
+    "build": "jekyll build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
