@@ -3,7 +3,7 @@ layout: page
 title: About
 description: This is the page description. 
 permalink: /about/
-background: '/images/about-page.jpeg'
+background: '/assets/images/about-page.jpeg'
 ---
 
 Welcome to Joel's Blog, a place where we share stories, ideas, and inspiration to help you live your best life.

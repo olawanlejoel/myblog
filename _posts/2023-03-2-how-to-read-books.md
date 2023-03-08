@@ -3,7 +3,7 @@ layout: post
 title: "How to Read Books: Tips and Strategies for Maximum Learning"
 subtitle: "Reading books is one of the most powerful ways to learn new information, gain new perspectives, and expand your knowledge."
 date: 2023-03-02 23:45:13 -0400
-background: '/images/blog/books.jpeg'
+background: '/assets/images/blog/books.jpeg'
 ---
 
 Reading books is one of the most powerful ways to learn new information, gain new perspectives, and expand your knowledge. But with so many books to choose from, it can be overwhelming to know where to start and how to get the most out of your reading. In this post, we'll share some tips and strategies for how to read books effectively.

@@ -12,6 +12,13 @@ github_username: olawanlejoel
 theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: 'posts' # empty string means all files
+    values:
+      layout: 'post'
+      author: 'John Doe'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
